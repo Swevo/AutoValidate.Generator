@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AutoValidate/AutoValidate.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AutoValidate.Tests/AutoValidate.Tests.csproj" />
+  </Folder>
+</Solution>
