@@ -1,6 +1,7 @@
 # AutoValidate.Generator
 
-[![NuGet](https://img.shields.io/nuget/v/AutoValidate.Generator.svg)](https://www.nuget.org/packages/AutoValidate.Generator/)
+[![NuGet](https://img.shields.io/nuget/v/AutoValidate.Generator
+[![NuGet Downloads](https://img.shields.io/nuget/dt/AutoValidate.Generator.svg)](https://www.nuget.org/packages/AutoValidate.Generator).svg)](https://www.nuget.org/packages/AutoValidate.Generator/)
 [![CI](https://github.com/Swevo/AutoValidate.Generator/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/AutoValidate.Generator/actions)
 
 **Compile-time FluentValidation wiring for .NET.**
